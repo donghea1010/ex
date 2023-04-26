@@ -3,7 +3,7 @@ import re
 import pandas as pd
 
 # Đường dẫn tới thư mục chứa các file .md
-dir_path = 'D:\DELL\dacn\lolbas'
+dir_path = 'D:\DELL\dacn\LOLBAS'
 
 # Tạo một list để lưu dữ liệu của các file .md
 data = []
